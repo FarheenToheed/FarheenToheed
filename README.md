@@ -36,7 +36,7 @@ CMS & Platforms
 
 Design & Editing
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=canva,adobephotoshop,figma" width="48" height="48" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=canva,adobephotoshop,figma" />
 </p>
 
 
