@@ -36,10 +36,14 @@ CMS & Platforms
 
 ### Design & Editing
 <p align="left">
+  <!-- Canva -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" style="vertical-align:middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" style="vertical-align:middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" style="vertical-align:middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clipchamp/clipchamp-original.svg" width="48" height="48" style="vertical-align:middle;" />
+  
+  <!-- Clipchamp (using shields.io as fallback) -->
+  <img src="https://img.shields.io/badge/Clipchamp-0078D4?style=flat-square&logo=clipchamp&logoColor=white" width="48" height="48" style="vertical-align:middle;" />
+
+  <!-- Pixellab (using shields.io as fallback) -->
+  <img src="https://img.shields.io/badge/Pixellab-FF6F61?style=flat-square&logo=pixellab&logoColor=white" width="48" height="48" style="vertical-align:middle;" />
 </p>
 
 
