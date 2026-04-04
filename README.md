@@ -42,51 +42,26 @@ Designing & Editing
 </p>
 
 
-## 📫 Contact Me
-
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/## 📫 Contact Me
+## Contact Me
 
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/farheen-toheed-4ab299327/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" style="vertical-align:middle;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:yourname@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" style="vertical-align:middle;" />
+  <a href="mailto:Mr.toheed1321@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
   </a>
 
   <!-- Pinterest -->
   <a href="https://www.pinterest.com/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pinterest" width="48" height="48" style="vertical-align:middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinterest/pinterest-original.svg" width="48" height="48"/>
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/1234567890" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" width="48" height="48" style="vertical-align:middle;" />
-  </a>
-</p>" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" style="vertical-align:middle;" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:yourname@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" style="vertical-align:middle;" />
-  </a>
-
-  <!-- Pinterest -->
-  <a href="https://www.pinterest.com/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pinterest" width="48" height="48" style="vertical-align:middle;" />
-  </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/1234567890" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" width="48" height="48" style="vertical-align:middle;" />
+  <a href="https://wa.me/923001234567" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" width="48" height="48"/>
   </a>
 </p>
-
-
-
