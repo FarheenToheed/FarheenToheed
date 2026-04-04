@@ -55,13 +55,10 @@ Designing & Editing
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
   </a>
 
-  <!-- Pinterest -->
-  <a href="https://www.pinterest.com/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinterest/pinterest-original.svg" width="48" height="48"/>
-  </a>
+  
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/923001234567" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" width="48" height="48"/>
+  <a href="https://wa.me/03041321538" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
