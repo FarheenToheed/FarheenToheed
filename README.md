@@ -34,9 +34,12 @@ CMS & Platforms
 
 
 
-Design & Editing
+### Design & Editing
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=canva,adobephotoshop,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clipchamp/clipchamp-original.svg" width="48" height="48" style="vertical-align:middle;" />
 </p>
 
 
