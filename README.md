@@ -21,7 +21,7 @@ I'm a **Web Developer** passionate about building websites and learning new tech
 ### 🛠️ Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notepadplusplus/notepadplusplus-original.svg" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black"/>
 </p>
 
 ---
@@ -29,9 +29,8 @@ I'm a **Web Developer** passionate about building websites and learning new tech
 ### 🌐 CMS & Platforms  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=wordpress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blogger/blogger-original.svg" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
 </p>
 
 ---
-
 
