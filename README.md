@@ -2,35 +2,35 @@
 I'm a **Web Developer** passionate about building websites and learning new technologies.
 
 ---
-## 🚀 My Skills 💻  
+## My Skills 💻  
 
-### 💻 Languages  
+Languages  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,c,python" />
 </p>
 
----
 
-### ⚡ Frameworks & Libraries  
+
+Frameworks & Libraries  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
 </p>
 
----
 
-### 🛠️ Tools  
+
+Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode,Notepad++" />
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black"/>
 </p>
 
----
 
-### 🌐 CMS & Platforms  
+
+CMS & Platforms  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=wordpress" />
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
 </p>
 
----
+
 
