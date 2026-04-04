@@ -42,4 +42,51 @@ Designing & Editing
 </p>
 
 
+## 📫 Contact Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/## 📫 Contact Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/farheen-toheed-4ab299327/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" style="vertical-align:middle;" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:yourname@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" style="vertical-align:middle;" />
+  </a>
+
+  <!-- Pinterest -->
+  <a href="https://www.pinterest.com/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pinterest" width="48" height="48" style="vertical-align:middle;" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/1234567890" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" width="48" height="48" style="vertical-align:middle;" />
+  </a>
+</p>" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" style="vertical-align:middle;" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:yourname@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" style="vertical-align:middle;" />
+  </a>
+
+  <!-- Pinterest -->
+  <a href="https://www.pinterest.com/yourprofile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pinterest" width="48" height="48" style="vertical-align:middle;" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/1234567890" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" width="48" height="48" style="vertical-align:middle;" />
+  </a>
+</p>
+
+
 
