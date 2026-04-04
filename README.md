@@ -36,9 +36,7 @@ CMS & Platforms
 
 Design & Editing
 <p align="left">
-  <img src="https://img.shields.io/badge/Pixellab-FF6F61?style=for-the-badge&logo=pixellab&logoColor=white" width="48" height="48" style="vertical-align:middle;" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" width="48" height="48" style="vertical-align:middle;" />
-  <img src="https://img.shields.io/badge/Clipchamp-0078D4?style=for-the-badge&logo=clipchamp&logoColor=white" width="48" height="48" style="vertical-align:middle;" />
+  <img src="https://skillicons.dev/icons?i=canva,adobephotoshop,figma" width="48" height="48" style="vertical-align:middle;" />
 </p>
 
 
