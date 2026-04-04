@@ -51,13 +51,12 @@ Designing & Editing
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:Mr.toheed1321@gmail.com">
+  <a href="mailto:mr.toheed1321@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
   </a>
 
   
 
-  <!-- WhatsApp -->
   <a href="https://wa.me/03041321538" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
