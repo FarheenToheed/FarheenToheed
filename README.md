@@ -1,4 +1,4 @@
-# Hi there, I'm Farheen Toheed 👩‍💻 A
+# Hi there, I'm Farheen Toheed 👩‍💻
 I'm a **Web Developer** passionate about building websites and learning new technologies.
 
 ---
