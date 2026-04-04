@@ -14,18 +14,17 @@ Frameworks & Libraries
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
 </p>
 
- Tools  
+<!-- Tools -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notepadplusplus/notepadplusplus-original.svg" width="48" height="48" style="vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notepadplusplus/notepadplusplus-original.svg" width="48" height="48" style="vertical-align:middle;" />
 </p>
 
-CMS & Platforms  
+<!-- CMS & Platforms -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blogger/blogger-original.svg" width="48" height="48" style="vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blogger/blogger-original.svg" width="48" height="48" style="vertical-align:middle;" />
 </p>
-
 
 
 
