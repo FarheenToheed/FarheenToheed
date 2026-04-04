@@ -9,7 +9,7 @@ I'm a **Web Developer** passionate about building websites and learning new tech
 ## 🚀 My Skills  
 ## 🛠️ Languages & Tools   
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,c,python" />
 </p>
 
