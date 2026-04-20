@@ -45,12 +45,12 @@ Designing & Editing
 ## Contact Me
 
 <p align="left">
-  <!-- LinkedIn -->
+ 
   <a href="https://www.linkedin.com/in/farheen-toheed-4ab299327/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
   </a>
 
-  <!-- Gmail -->
+ 
   <a href="mailto:mr.toheed1321@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
   </a>
